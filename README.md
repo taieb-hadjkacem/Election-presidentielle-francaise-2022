@@ -1,1 +1,1 @@
-# Élection présidentielle francaise 2022
+# Élection présidentielle française 2022
