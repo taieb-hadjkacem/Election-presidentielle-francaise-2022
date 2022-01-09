@@ -42,6 +42,10 @@ bin\kibana.bat
 * Indexation des tweets, des données liés ainsi que les scores d’analyse de sentiment dans Elasticksearch.
 ### Visualisation avec Kibana
 * Accès à Kibana via le port 5601.
+* Faire le lien Kibana-Elasticsearch en définissant l'index pattern prédéfinit dans le code consumer.py sous le nom *electionsfrance*.
+
+![](https://lh3.googleusercontent.com/QguZwHGUEvTCVBwsgV8u1VXcH1g049pQJY3qihMdXY1-nxWdIdTqt2ICFLDVtuhCtApsXHH2CVDrd6zmt5ObslwvZL6kW1kCLmfRUfUYw-ITdrhJ2aMPJo0d-33-jkj9sdltPhbItb_qvnqg5aXSh7kOXoK_vUTVCie2xeFKqN_ywYTkdaYJpkrd22q09u2r1dmX_3wkHgkMmplod9K7n_kmhX2UhWAnNBn9HC8MPDrQm8FBiNaaqs0V_hahJvpmSCshWCB-rkOp7m6s8l4xR6KrFjHG6k9k1FGtQg7_pRvDu2kFQbxDk1soQSv1Bl2V42J-jqX2a1ePdBKqqr5xWumVCJIrRebh0daPDW79iIT9QleiUlQdQ6-Y5GIEiStqlospAFxTH9VvraJJ7xJblQccFknMfbBHoYt7syswsqJbLKCKfSJIVDukk7oIVEbAsfjd_NZlhNaAyjWEbmU9rioY0kYzee_KhgAmmnxZHBtrsg6FGAreg-2VnwoqKnfxe2kuzOF__Q3ph-CItW-4kVfTPUMG0l6PzuBdIUe6us-ngDhIJuTqpquQHGVlJS_5pVvOh6mhJwtTTYFXzHiDIXdDb15KXG2QhJOueZlfVOEyXGbz0J4EJzR3d37kOAAPxUGQIuXukeHNc8TRTGrvPKz1PVA848LrE5Y2nAulmvYsjGacHteFC_zfaTP8cWO4eklpQ_Gdospm827q1-K6ajk=w1267-h435-no?authuser=0)
+
 * Création des visualisations telles que pour chaque condidat est associé un  bar vertical contenant le nombre des avis négatifs, positifs et neutres.
 * Création d'un dashboard avec les visualisations créées.
 
